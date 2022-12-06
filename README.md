@@ -1,4 +1,3 @@
-# Online-Test-Applicaion
 # ONLINE TEST APPLICATION
 
 ## About:
@@ -12,7 +11,7 @@ tests and quizzes saving you hours of paperwork.This project was generated with 
 - Contains three types of quiz categories - GK, Technology, Aptitude.
 - Easily navigate the question while playing the quiz.
 - Color indication for Answered, Unanswered questions, Mark for review questions during quiz reading.
-- Color indication for Correct, Incorrect, and not attempted questions in the â€œReview & Resultâ€ section.
+- Color indication for Correct, Incorrect, and not attempted questions in the “Review & Result” section.
 - The Timer is set at the start of the quiz.
 - Automatic quiz submissions are activated at the end of time.
 - The Color of the timer changes as there is less time left.
